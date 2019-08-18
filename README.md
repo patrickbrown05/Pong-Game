@@ -6,5 +6,5 @@ the old game Pong made with HTML and Javascript
   <li>working with HTML canvas</li>
   <li>working with pixel and pixel logic</li>
   <li>simple game logic</li>
-  <li></li>
+
   </ul>
